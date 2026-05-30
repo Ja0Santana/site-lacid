@@ -1,6 +1,6 @@
-(function () {
-    const MEMBROS_URL = '/src/data/membros.json';
+import membrosData from '../data/membros.json';
 
+(function () {
     function escapeHtml(text) {
         return String(text)
             .replace(/&/g, '&amp;')
@@ -12,12 +12,7 @@
 
     async function carregarMembros() {
         try {
-            const response = await fetch(MEMBROS_URL);
-            if (!response.ok) {
-                throw new Error('Não foi possível carregar o arquivo de membros.');
-            }
-            const data = await response.json();
-            return data.membros || [];
+            return membrosData.membros || [];
         } catch (error) {
             console.error('Erro ao carregar membros:', error);
             return [];

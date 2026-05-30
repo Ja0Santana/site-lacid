@@ -1,5 +1,6 @@
+import newsData from '../data/news.json';
+
 (function () {
-    const NEWS_URL = '/src/data/news.json';
     let newsCache = null;
 
     function escapeHtml(text) {
@@ -29,13 +30,7 @@
             return newsCache;
         }
 
-        const response = await fetch(NEWS_URL);
-        if (!response.ok) {
-            throw new Error('Não foi possível carregar o arquivo de notícias.');
-        }
-
-        const data = await response.json();
-        newsCache = Array.isArray(data.news) ? data.news : [];
+        newsCache = Array.isArray(newsData.news) ? newsData.news : [];
         return newsCache;
     }
 

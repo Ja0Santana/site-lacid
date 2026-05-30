@@ -1,3 +1,5 @@
+import carouselData from '../data/carousel.json';
+
 export async function initCarousel() {
     const track = document.getElementById('track');
     const container = document.querySelector('.carousel-container');
@@ -6,11 +8,7 @@ export async function initCarousel() {
     if (!track || !container || !dotsContainer) return;
 
     try {
-        const response = await fetch('/src/data/carousel.json');
-        if (!response.ok) throw new Error('Falha ao carregar os dados do carrossel.');
-        
-        const data = await response.json();
-        const slidesData = data.slides || [];
+        const slidesData = carouselData.slides || [];
         if (slidesData.length === 0) return;
 
         track.innerHTML = slidesData.map(slide => 
