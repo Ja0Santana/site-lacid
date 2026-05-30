@@ -1,7 +1,7 @@
 {
     "membros": [
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.55.26.webp",
+            "foto": "/img/img_integrantes/ac8f5bc6-a1ce-4b21-af50-c783f9b6588a.jpg",
             "nome": "Rauan Phelipe",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
@@ -10,8 +10,8 @@
             "lattes": "https://lattes.cnpq.br/3575301907981448"
         },
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.55.34.webp",
-            "nome": "Gustavo dos Anjos",
+            "foto": "/img/default_avatar.png",
+            "nome": "Gustavo Menezes",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
             "linkedin": "https://www.linkedin.com/in/gustavo-dos-anjos-menezes-052388288/",
@@ -19,7 +19,7 @@
             "lattes": "https://lattes.cnpq.br/9398336059650671"
         },
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.55.43.webp",
+            "foto": "/img/default_avatar.png",
             "nome": "Deyvisson Menezes",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
@@ -28,7 +28,7 @@
             "lattes": "https://lattes.cnpq.br/8285501909601347"
         },
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.55.51.webp",
+            "foto": "/img/default_avatar.png",
             "nome": "Isaías de Pádua",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
@@ -46,7 +46,7 @@
             "lattes": "http://lattes.cnpq.br/9903044475753680"
         },
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.56.05.webp",
+            "foto": "/img/img_integrantes/f0157085-e73d-48e2-8e21-ab0013b760f2.jpg",
             "nome": "Augusto",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
@@ -64,7 +64,7 @@
             "lattes": "https://lattes.cnpq.br/5328812346089537"
         },
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.56.19.webp",
+            "foto": "/img/default_avatar.png",
             "nome": "Alícia Mirelle",
             "cargo": "Membro da Liga",
             "curso": "Engenharia Elétrica",
@@ -73,7 +73,7 @@
             "lattes": "#"
         },
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.56.45.webp",
+            "foto": "/img/img_integrantes/2ab95749-6497-4311-955f-e7db5856e21a.jpg",
             "nome": "Guilherme da Invenção",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
@@ -82,13 +82,13 @@
             "lattes": "http://lattes.cnpq.br/7304237008470623"
         },
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.57.06.webp",
-            "nome": "Bella",
+            "foto": "/img/default_avatar.png",
+            "nome": "Maria Isabella",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
-            "linkedin": "#",
-            "github": "#",
-            "lattes": "#"
+            "linkedin": "https://www.linkedin.com/in/isabella-ribeiro-chaves-376505344",
+            "github": "https://github.com/mariaisabellaribeirochaves",
+            "lattes": "https://lattes.cnpq.br/4345285367153776"
         },
         {
             "foto": "/img/img_integrantes/bc20a8bc-1668-467a-aa9f-e370e0e3cbc4.webp",
@@ -100,25 +100,16 @@
             "lattes": "http://lattes.cnpq.br/5466217488212529"
         },
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.57.33.webp",
+            "foto": "/img/default_avatar.png",
             "nome": "Adrielly",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
-            "linkedin": "#",
-            "github": "#",
-            "lattes": "#"
+            "linkedin": "https://www.linkedin.com/in/adrielly-santos-maranduba-9ab4b437a",
+            "github": "https://github.com/ellyenigena",
+            "lattes": "https://lattes.cnpq.br/4822083870390619"
         },
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.57.49.webp",
-            "nome": "Carlos Vinícyus",
-            "cargo": "Membro da Liga",
-            "curso": "Sistemas de Informação",
-            "linkedin": "#",
-            "github": "#",
-            "lattes": "#"
-        },
-        {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.58.07.webp",
+            "foto": "/img/default_avatar.png",
             "nome": "Jeferson Souza",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
@@ -127,7 +118,7 @@
             "lattes": "http://lattes.cnpq.br/9024876953479247"
         },
         {
-            "foto": "/img/img_integrantes/WhatsApp Image 2026-05-12 at 15.58.33.webp",
+            "foto": "/img/default_avatar.png",
             "nome": "Mariza",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
@@ -146,7 +137,7 @@
         },
         {
             "foto": "/img/default_avatar.png",
-            "nome": "Antonio Neto",
+            "nome": "Alexandre Barbosa",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
             "linkedin": "https://www.linkedin.com/in/alexandrebarbosa01/",
@@ -173,57 +164,21 @@
         },
         {
             "foto": "/img/default_avatar.png",
-            "nome": "Integrante 20",
+            "nome": "Gustavo Ferreira",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
-            "linkedin": "#",
-            "github": "#",
-            "lattes": "#"
+            "linkedin": "https://www.linkedin.com/in/gustavo-dos-anjos-ferreira-b56969218/",
+            "github": "https://github.com/Gustavogaf",
+            "lattes": "http://lattes.cnpq.br/2204341741337368"
         },
         {
             "foto": "/img/default_avatar.png",
-            "nome": "Integrante 21",
+            "nome": "Antônio Neto",
             "cargo": "Membro da Liga",
             "curso": "Sistemas de Informação",
-            "linkedin": "#",
-            "github": "#",
-            "lattes": "#"
-        },
-        {
-            "foto": "/img/default_avatar.png",
-            "nome": "Integrante 22",
-            "cargo": "Membro da Liga",
-            "curso": "Sistemas de Informação",
-            "linkedin": "#",
-            "github": "#",
-            "lattes": "#"
-        },
-        {
-            "foto": "/img/default_avatar.png",
-            "nome": "Integrante 23",
-            "cargo": "Membro da Liga",
-            "curso": "Sistemas de Informação",
-            "linkedin": "#",
-            "github": "#",
-            "lattes": "#"
-        },
-        {
-            "foto": "/img/default_avatar.png",
-            "nome": "Integrante 24",
-            "cargo": "Membro da Liga",
-            "curso": "Sistemas de Informação",
-            "linkedin": "#",
-            "github": "#",
-            "lattes": "#"
-        },
-        {
-            "foto": "/img/default_avatar.png",
-            "nome": "Integrante 25",
-            "cargo": "Membro da Liga",
-            "curso": "Sistemas de Informação",
-            "linkedin": "#",
-            "github": "#",
-            "lattes": "#"
+            "linkedin": "https://www.linkedin.com/in/ant%C3%B4nio-ferreira-oliveira-neto-0b4ab6341",
+            "github": "https://github.com/Antonio-net0",
+            "lattes": "https://lattes.cnpq.br/4533274198094634"
         }
     ]
 }
