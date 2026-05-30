@@ -1320,6 +1320,11 @@ body {
         justify-content: center;
     }
 
+    .btn-aba-lateral::after,
+    .btn-saiba-mais::after {
+        display: none !important;
+    }
+
     .box-quem-somos {
         padding: 40px 20px 30px;
         border-radius: 0 30px 0 30px;
@@ -1338,8 +1343,8 @@ body {
         padding: 30px 0;
     }
 
-    .card-membro {
-        width: calc((100% - 60px) / 4); /* 4 colunas em tablets */
+    .style-playful .card-membro {
+        width: calc((100% - 40px) / 3); /* 3 colunas em tablets */
     }
 
 
@@ -1366,17 +1371,8 @@ body {
 
     /* Forçar 2 colunas em celulares menores */
     @media (max-width: 600px) {
-        .card-membro {
+        .style-playful .card-membro {
             width: calc((100% - 20px) / 2); /* 2 colunas */
-        }
-    }
-
-    /* Forçar 1 coluna em celulares muito pequenos */
-    @media (max-width: 400px) {
-        .card-membro {
-            width: 100%;
-            max-width: 280px;
-            margin: 0 auto;
         }
     }
     /* Páginas de notícias - Mobile */
