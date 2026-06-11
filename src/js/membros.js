@@ -12,7 +12,8 @@ import membrosData from '../data/membros.json';
 
     async function carregarMembros() {
         try {
-            return membrosData.membros || [];
+            const list = membrosData.membros || [];
+            return [...list].sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
         } catch (error) {
             console.error('Erro ao carregar membros:', error);
             return [];
